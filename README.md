@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/jyoti14singh/7c1afcc0-a780-4f3a-bb2f-a2ae1e62546d/8a3107bc-3b6c-4536-aa9b-69b878dee152/_apis/work/boardbadge/502b7289-d1df-4fe1-8da7-800435108f8a)](https://dev.azure.com/jyoti14singh/7c1afcc0-a780-4f3a-bb2f-a2ae1e62546d/_boards/board/t/8a3107bc-3b6c-4536-aa9b-69b878dee152/Microsoft.RequirementCategory)
 # azuredemo
